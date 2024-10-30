@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\obj\Debug\StudentDatabaseSample.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\obj\Debug\StudentDatabaseSample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\bin\Debug\StudentDatabaseSample.exe.config
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\bin\Debug\StudentDatabaseSample.exe
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\bin\Debug\StudentDatabaseSample.pdb
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\obj\Debug\StudentD.7EEC5E29.Up2Date
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\obj\Debug\StudentDatabaseSample.exe
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\obj\Debug\StudentDatabaseSample.pdb
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\obj\Debug\StudentDatabaseSample.Migrations.InitialCreate.resources
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\obj\Debug\StudentDatabaseSample.csproj.GenerateResource.cache
+C:\Users\user\source\repos\StudentDatabaseSample\StudentDatabaseSample\obj\Debug\StudentDatabaseSample.Migrations.InitialCreate1.resources
